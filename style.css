@@ -10,6 +10,7 @@ html,body{
     height: 100%;
     width: 100%;
     background-color: rgb(241, 205, 205);
+    /* justify content & align items not works without display flex */
     display: flex;
     justify-content: center;
     align-items: center;
